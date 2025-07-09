@@ -1,10 +1,17 @@
-# RID-_-215963
-Projeto Desfio da Escola DNC Desenvolvimento Web 
 
-Projeto desenvolvido com prototipo direto do figma, este e land page com formulario usando uma api para pegar dados so usuario 
-e colocar numa panilha no google sheets atraves de uma api sheet monkey
+# Projeto De arquitetura 
 
-o estilo das letras peguei no glogle fontes e exportei direto no css 
+Link Disponibilisado https://desafiobase123.netlify.app/
+
+📐 Projeto de Captação de Clientes – Arquitetura
+Este projeto foi desenvolvido com foco estratégico na captação de contatos qualificados para escritórios de arquitetura. Através de uma página simples, funcional e elegante, é possível coletar informações essenciais de potenciais clientes de forma rápida e eficiente. ✨
+
+Utilizando Google Sheets como base de dados 📊, cada preenchimento do formulário é automaticamente registrado em uma planilha organizada, facilitando o acompanhamento e a gestão dos leads recebidos. 🗂️
+
+✅ Principais benefícios:
+📥 Coleta automática e segura de dados
+
+🧾 Organização centralizada em tempo real
 
 este e link do projeto hospedado https://desafiobase123.netlify.app/
 o link assim que aperta o botão ele vai direto para escola dnc
